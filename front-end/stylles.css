@@ -24,7 +24,7 @@ p {
 
 .logo {
     width: 50px;
-    margin-top: 15px;
+    margin-top: 10px;
 }
 
 .navbar-items {
@@ -54,12 +54,13 @@ p {
 }
 
 .default-btn {
-    padding: 15px 20px;
+    padding: 10px 15px;
     background-color: #2cc76a;
     border-radius: 5px;
+    margin-right: 15px;
 }
 
 .navbar-items .default-btn:hover {
-    background-color: #22bb5f;
+    background-color: #22bb6f;
     color: #ccc;
 }
